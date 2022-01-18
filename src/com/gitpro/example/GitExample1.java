@@ -5,5 +5,8 @@ public class GitExample1 {
 		System.out.println("Hello Git");
 		
 		System.out.println("Git Status 실험");
+		
+		System.out.println("Git Amend 실험");
+		System.out.println("Git Amend 추가");
 	}
 }

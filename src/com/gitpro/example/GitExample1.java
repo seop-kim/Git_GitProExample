@@ -11,5 +11,6 @@ public class GitExample1 {
 		System.out.println("Git Amend 추가2");
 		System.out.println("Git Amend 추가3");
 		System.out.println("Git Amend 추가4");
+		System.out.println("Git fetch test");
 	}
 }

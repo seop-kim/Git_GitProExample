@@ -14,5 +14,7 @@ public class GitExample1 {
 		System.out.println("Git fetch test");
 		
 		System.out.println("Git fetch test 2");
+		
+		System.out.println("git fast-fowards test");
 	}
 }
